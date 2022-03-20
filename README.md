@@ -1,4 +1,4 @@
-# Thinkpad T480 Hackintosh Opencore With rEFInd Dualboot
+# Thinkpad T480 Hackintosh Opencore Dualboot
 
 **Status: Testing And Maintaining**
 
