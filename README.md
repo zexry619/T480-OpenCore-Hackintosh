@@ -6,7 +6,6 @@ This EFI configuration is taken from: https://github.com/EETagent/T480-OpenCore-
 
 I'm still in the learning stage on hackintosh. So this EFI may not be perfect!
 
-<img align="right" src="./Other/README_Resources/ThinkPad.gif" alt="T480 macOS" width="430">
 
 **DISCLAIMER:**
 Read the entire README and Dortania guides before you start. I am not responsible for any damage.
